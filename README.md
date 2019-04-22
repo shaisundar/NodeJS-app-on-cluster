@@ -39,7 +39,7 @@ $Node app.js  ----- will start the application in specified port.
 
 In our case app is on port 3000 and api is on port 4000
 
-But will exposing over internet, we will expose on port 443 (HTTPS)
+But will exposing over internet, we will expose on port 443 (HTTPS) and 80 (HTTP)
 
 
 
