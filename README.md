@@ -140,6 +140,10 @@ To test it over the internet when everything is done, just look for the load bal
 Final code is present in the repo ---
 
 
+Then to scale your application  , run
+$kubectl scale --replicas=x deployment app
+
+
 
 
 
